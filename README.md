@@ -1,7 +1,11 @@
-## Bootstrap-Project
+<h1>Real Estate HTML-CSS-BOOTSTRAP Responsive Project</h1>
 
-HTML CSS Bootstrap kullanilarak tasarlandi.
+<hr>
 
-## GIF
+<h2>Kullanılan Teknolojiler</h2>
 
-<img src="screen.gif"># bsRealEstate
+<p>HTML-CSS-BOOTSTRAP kullanıldı. </br> Responsive yapı kullanıldı</p>
+
+![](/gif/screen-1.gif)
+
+![](/gif/screen-2.gif)
